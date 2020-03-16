@@ -60,6 +60,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\living birds\demo\livingBirdsDemoScript.cs" />
+    <Compile Include="Assets\living birds\scripts\lb_Bird.cs" />
+    <Compile Include="Assets\living birds\scripts\lb_BirdController.cs" />
+    <Compile Include="Assets\living birds\scripts\lb_CrowProximity.cs" />
+    <Compile Include="Assets\Scripts\CameraSwitch.cs" />
     <Compile Include="Assets\Scripts\PathFollow.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/andejt1/Desktop/UnityHDRPSimpleWater/Bird_Test_Skin/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
